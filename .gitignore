@@ -1,1 +1,9 @@
 # Created by .ignore support plugin (hsz.mobi)
+/venv/
+.idea/BotWall.iml
+.idea/encodings.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/workspace.xml
+__pycache__/
+venv/
