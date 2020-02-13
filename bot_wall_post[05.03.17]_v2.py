@@ -444,7 +444,7 @@ def main():
 
     while True:
         access_token, user_id = vk.auth('+79123260552', "GiveMeUsaTank1337", "4826374",
-                                        'audio,groups,friends,photos,wall,notify,messages,stats, offline')
+                                        'audio,groups,friends,photos,wall,notify,messages,stats,offline')
         if access_token != '':
             break
 
